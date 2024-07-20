@@ -10,10 +10,10 @@
 
 
 ### Home Screen
-<img src="https://github.com/SatyamkrJha85/Web-Craft/assets/111700337/8328a243-119c-4040-a44f-54203ca2c298" alt="Splash" width="500" height="700">
+<img src="https://github.com/SatyamkrJha85/Web-Craft/assets/111700337/8328a243-119c-4040-a44f-54203ca2c298" alt="Splash" width="200" height="450">
 
 ### Home Screen
-<img src="https://github.com/SatyamkrJha85/Web-Craft/assets/111700337/d7fe8857-f536-4bb7-9075-71fab70ad42c" alt="Search" width="500" height="700">
+<img src="https://github.com/SatyamkrJha85/Web-Craft/assets/111700337/d7fe8857-f536-4bb7-9075-71fab70ad42c" alt="Search" width="200" height="450">
 
 
 
