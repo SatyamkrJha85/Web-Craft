@@ -6,7 +6,7 @@
 
 ## Introduction
 
-**Web&Craft ** is an Android application designed to provide users to search product. Utilizing the latest in MVVM architecture and Jetpack Compose, Planet Finder delivers a seamless and engaging user experience.
+**Web&Craft ** is an Android application designed to provide users to search product. Utilizing the latest in MVVM architecture and Jetpack Compose, Planet Finder delivers a seamless and engaging user experience..
 
 
 ### Home Screen
